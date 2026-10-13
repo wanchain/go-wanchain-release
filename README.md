@@ -27,6 +27,7 @@ wide range of distributions without extra system libraries.
 
 ### Linux / macOS
 
+Linux need Ubuntu24 or above
 ```bash
 # Replace the file name with the archive you downloaded
 tar -xzf gwan-linux-amd64.tgz
